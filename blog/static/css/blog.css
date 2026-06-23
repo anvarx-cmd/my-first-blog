@@ -1,3 +1,21 @@
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
+#logout {
+    font-family: 'Lobster', cursive;
+
+}
+
+small a,
+small a:hover,
+small a:visited {
+    font-size: 15pt;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
 h1 a, h2 a {
 	color: #C25100;
 	font-family: 'Lobster';
